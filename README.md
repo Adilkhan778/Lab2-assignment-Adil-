@@ -1,2 +1,2 @@
-# Lab2-assignment-Adil-
-Lab2 assignment(Adil Khan)
+# Lab3-assignment-Adil-
+Lab3 assignment(Adil Khan)
